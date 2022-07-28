@@ -1,5 +1,5 @@
 const fs = require("fs");
-const filename = process.argv[2];
+const dbName = process.argv[2];
 const moment= require('moment')
 let Plans = {
     MUSIC: {

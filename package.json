@@ -7,7 +7,7 @@
     "start": "node geektrust.js",
     "test": "mocha"
   },
-  "author": "geektrust",
+  "author": "geekTrust",
   "license": "ISC",
   "dependencies": {
     "mocha": "^10.0.0",
